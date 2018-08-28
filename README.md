@@ -6,7 +6,7 @@ The Threema Message API is an interface that can be used from within customer-sp
 
 
 
-#### Configuration for Testing
+### Configuration for Testing
 
 
 Configure in application.json:
